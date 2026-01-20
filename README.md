@@ -1,4 +1,4 @@
-# 🌟 3D Responsive Portfolio Website
+3D Responsive Portfolio Website
 
 A modern one-page 3D personal portfolio website built using HTML, CSS, and JavaScript, designed with animated backgrounds, floating particles, and glassmorphism UI.
 
@@ -6,7 +6,7 @@ A modern one-page 3D personal portfolio website built using HTML, CSS, and JavaS
 🔗GitHub: https://github.com/deepthi535  
 💼 LinkedIn: https://www.linkedin.com/in/ramagiri-matam-deepthi-16b10627b  
 
----
+
 
  Features
 - Animated gradient background  
@@ -16,14 +16,13 @@ A modern one-page 3D personal portfolio website built using HTML, CSS, and JavaS
 - Modern typography & clean layout  
 - Smooth animations and interactions  
 
----
 
  🛠️ Technologies
 - HTML5  
 - CSS3 (Animations & Responsive Design)  
 - JavaScript (Canvas, 3D tilt effects)  
 
----
+
 
 📂 Project Structure
 index.html
